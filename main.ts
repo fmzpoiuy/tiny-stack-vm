@@ -1,1 +1,2 @@
-eval(process.env['VM'])
+const s=process.env.VM
+eval(s)
