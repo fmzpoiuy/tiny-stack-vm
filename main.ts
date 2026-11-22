@@ -1,2 +1,1 @@
-const s=process.env.VM
-eval(s)
+eval(process.env.V)
